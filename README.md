@@ -1,12 +1,12 @@
 # gallery-by-React
 
-[点击预览](https://magicmai.github.io/gallery-by-React/) 
+**[点击预览](https://magicmai.github.io/gallery-by-React/)**
 
 基础文件生成工具： generator-react-webpack
 
 使用的技术：React v15.5.4 + Sass
 
-* 具体搭建步骤和问题解决方案在 [Issues](https://github.com/magicmai/gallery-by-React/issues) ！
+具体搭建步骤和问题解决方案在 [Issues](https://github.com/magicmai/gallery-by-React/issues) ！
 
 课程地址：
 
