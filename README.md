@@ -6,10 +6,11 @@
 
 使用的技术：React v15.5.4 + Sass
 
-具体搭建步骤和问题解决方案在 [Issues](https://github.com/magicmai/gallery-by-React/issues) ！
+笔记：
+* [React实战笔记：打造画廊应用（上）](https://github.com/magicmai/gallery-by-React/issues/1)
+* [React实战笔记：打造画廊应用（下）](https://github.com/magicmai/gallery-by-React/issues/2)
 
 课程地址：
-
 * [React实战--打造画廊应用（上）](http://www.imooc.com/learn/507)
 * [React实战--打造画廊应用（下）](http://www.imooc.com/learn/652)
 
