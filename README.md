@@ -1,21 +1,23 @@
 # gallery-by-React
 
-**[点击预览](https://magicmai.github.io/gallery-by-React/)**
+#### [点击预览](https://magicmai.github.io/gallery-by-React/)
 
-实现功能：
+#### 实现功能：
 * 点击居中图片可翻转图片，在正面图片与背面信息之间切换
 * 随意点击周围图片使其居中
 * 点击下方的控制按钮时，若图片居中，也可完成相同的图片翻转效果，按钮也随之翻转；若图片不居中，则能使图片居中。
 
-基础文件生成工具： generator-react-webpack
+#### 基础文件生成工具： 
+* generator-react-webpack
 
-使用的技术：React v15.5.4 + Sass
+#### 使用的技术：
+* React v15.5.4 + Sass
 
-笔记：
+#### 笔记：
 * [React实战笔记：打造画廊应用（上）](https://github.com/magicmai/gallery-by-React/issues/1)
 * [React实战笔记：打造画廊应用（下）](https://github.com/magicmai/gallery-by-React/issues/2)
 
-课程地址：
+#### 课程地址：
 * [React实战--打造画廊应用（上）](http://www.imooc.com/learn/507)
 * [React实战--打造画廊应用（下）](http://www.imooc.com/learn/652)
 
